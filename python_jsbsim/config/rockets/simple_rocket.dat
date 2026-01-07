@@ -1,0 +1,15 @@
+[GENERAL]
+name = Simple Rocket
+
+[MASS]
+empty_mass = 100
+fuel_mass = 50
+
+[PROPULSION]
+isp = 200
+max_thrust = 3000
+
+[AERODYNAMICS]
+CL_alpha = 0.05
+CD0 = 0.3
+area = 1.0
